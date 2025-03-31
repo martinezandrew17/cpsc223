@@ -1,0 +1,25 @@
+Added David into today sale
+Added John into today sale
+Added egg to David 's cart
+Item not found
+**************************************************
+Current queue deque(['John', 'David'])
+Serving John
+**************************************************
+John 's cart:
+banana : 5.0
+egg : 1.0
+Customer John get 10 %
+Total: 5.4
+**************************************************
+Current queue deque(['David'])
+Serving David
+**************************************************
+David 's cart:
+apple : 10.0
+egg : 0
+sushi : 11.8
+Customer David get 10 %
+Total: 19.62
+**************************************************
+No more in queue
